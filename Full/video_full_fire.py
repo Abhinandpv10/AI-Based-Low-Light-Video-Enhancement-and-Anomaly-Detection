@@ -11,8 +11,8 @@ VIDEO_PATH = "Full/test.mp4"   # <-- Your video file
 ZERO_DCE_MODEL = "ZeroDCE/zerodce.pth"
 YOLO_MODEL = "Anomaly/anomaly.pt"
 
-SERVICE_ACCOUNT_PATH = "ServiceAccountKey.json"
-DATABASE_URL = "https://darksightai-35def-default-rtdb.firebaseio.com/"
+SERVICE_ACCOUNT_PATH = "AccountKey"
+DATABASE_URL = "App Database URL"
 
 CONF_THRESHOLD = 0.4
 SCALE_FACTOR = 12

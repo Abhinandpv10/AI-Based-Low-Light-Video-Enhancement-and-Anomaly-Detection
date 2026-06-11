@@ -7,12 +7,12 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # ================= CONFIG =================
-VIDEO_PATH = "rtsp://admin:L26D33A2@10.253.225.25:554/cam/realmonitor?channel=1&subtype=1"
+VIDEO_PATH = "Input the Video Path"
 ZERO_DCE_MODEL = "ZeroDCE/zerodce.pth"
 YOLO_MODEL = "Anomaly/anomaly.pt"
 
-SERVICE_ACCOUNT_PATH = "ServiceAccountKey.json"
-DATABASE_URL = "https://darksightai-35def-default-rtdb.firebaseio.com/"
+SERVICE_ACCOUNT_PATH = "Account Key"
+DATABASE_URL = "App DAtabase URL"
 
 CONF_THRESHOLD = 0.4
 SCALE_FACTOR = 12
