@@ -7,7 +7,7 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # ================= CONFIG =================
-VIDEO_PATH = "rtsp://admin:L26D33A2@10.253.225.25:554/cam/realmonitor?channel=1&subtype=1"
+VIDEO_PATH = "Input the video Path"
 ZERO_DCE_MODEL = "ZeroDCE/zerodce.pth"
 YOLO_MODEL = "Anomaly/anomaly.pt"
 
