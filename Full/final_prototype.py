@@ -7,12 +7,8 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # ================= CONFIG =================
-<<<<<<< HEAD
 VIDEO_PATH = "Input the Video Path"
-=======
-VIDEO_PATH = "Input the video Path"
->>>>>>> aab153ee3757772a7681d33c1be71c722033847d
-ZERO_DCE_MODEL = "ZeroDCE/zerodce.pth"
+ZERO_DCE_MODEL = "ZeroDCE/zerodce.pt"
 YOLO_MODEL = "Anomaly/anomaly.pt"
 
 SERVICE_ACCOUNT_PATH = "Account Key"
