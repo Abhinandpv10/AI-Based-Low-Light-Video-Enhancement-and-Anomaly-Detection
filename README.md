@@ -116,8 +116,10 @@ The system significantly improves visibility in low-light environments while pre
 
 **Abhinad Krishnan P V**
 
-- GitHub: https://github.com/Abhinandpv10
-- LinkedIn: linkedin.com/in/abhinand-krishnan-pv
+🔗 GitHub: https://github.com/Abhinandpv10
+
+💼 LinkedIn: https://linkedin.com/in/abhinand-krishnan-pv
+
 
 ## License
 
